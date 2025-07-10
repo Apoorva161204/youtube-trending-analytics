@@ -1,0 +1,101 @@
+video_id,title,publishedAt,channelTitle,categoryId,tags,views,likes,dislikes,comment_count,region,trending_date,sentiment_score,sentiment_label
+vid_1000,Top 10 Goals of the Week,2021-08-04T00:00:00,Sports Central,17,football|soccer|goals,1404034,229913,1904,708,US,2021-08-07,0.5,Positive
+vid_1001,How to Bake Chocolate Cake,2021-08-06T00:00:00,Baking World,26,cake|baking|chocolate,4300754,475768,1737,10385,US,2021-08-09,0.0,Neutral
+vid_1002,New iPhone Review,2021-08-06T00:00:00,Tech Guru,28,tech|review|apple,3397378,21774,3572,1974,US,2021-08-09,0.13636363636363635,Positive
+vid_1003,Best Comedy Skits 2021,2021-08-05T00:00:00,Laugh Zone,23,comedy|funny|lol,3933944,327068,9300,2244,US,2021-08-09,1.0,Positive
+vid_1004,Travel Vlog: Goa Adventures,2021-08-05T00:00:00,Wanderlust,19,travel|vlog|india,463401,249762,1879,18138,US,2021-08-06,0.0,Neutral
+vid_1005,Yoga for Beginners,2021-08-04T00:00:00,Yoga Daily,27,yoga|fitness|peace,3949436,84085,4333,19366,US,2021-08-11,0.0,Neutral
+vid_1006,Top 5 Gaming Moments,2021-08-04T00:00:00,Game On,20,gaming|fps|highlights,4848840,90166,8391,11785,US,2021-08-11,0.5,Positive
+vid_1007,Breaking News Today,2021-08-04T00:00:00,News Now,25,news|breaking|update,159742,17978,6495,13416,US,2021-08-07,0.0,Neutral
+vid_1008,Makeup Tutorial 101,2021-08-03T00:00:00,Beauty Buzz,26,makeup|beauty|tutorial,3478265,403942,5420,18390,US,2021-08-09,0.0,Neutral
+vid_1009,Epic Pranks Compilation,2021-08-03T00:00:00,Pranksters,23,prank|funny|viral,3309403,304369,5181,6482,US,2021-08-10,0.1,Neutral
+vid_1010,Top 10 Goals of the Week,2021-08-06T00:00:00,Sports Central,17,football|soccer|goals,1119772,27789,4562,13954,US,2021-08-07,0.5,Positive
+vid_1011,How to Bake Chocolate Cake,2021-08-02T00:00:00,Baking World,26,cake|baking|chocolate,4063950,270950,8089,7705,US,2021-08-09,0.0,Neutral
+vid_1012,New iPhone Review,2021-08-05T00:00:00,Tech Guru,28,tech|review|apple,1306384,157784,1734,4545,US,2021-08-08,0.13636363636363635,Positive
+vid_1013,Best Comedy Skits 2021,2021-08-05T00:00:00,Laugh Zone,23,comedy|funny|lol,200611,395848,3780,3030,US,2021-08-10,1.0,Positive
+vid_1014,Travel Vlog: Goa Adventures,2021-08-01T00:00:00,Wanderlust,19,travel|vlog|india,2766819,240378,6707,12692,US,2021-08-11,0.0,Neutral
+vid_1015,Yoga for Beginners,2021-08-01T00:00:00,Yoga Daily,27,yoga|fitness|peace,1285547,276259,1985,15950,US,2021-08-08,0.0,Neutral
+vid_1016,Top 5 Gaming Moments,2021-08-04T00:00:00,Game On,20,gaming|fps|highlights,999779,289070,298,10678,US,2021-08-07,0.5,Positive
+vid_1017,Breaking News Today,2021-08-02T00:00:00,News Now,25,news|breaking|update,2394838,86864,2538,4349,US,2021-08-06,0.0,Neutral
+vid_1018,Makeup Tutorial 101,2021-08-01T00:00:00,Beauty Buzz,26,makeup|beauty|tutorial,3138669,419078,8188,3401,US,2021-08-08,0.0,Neutral
+vid_1019,Epic Pranks Compilation,2021-08-05T00:00:00,Pranksters,23,prank|funny|viral,2014641,452759,8067,7043,US,2021-08-08,0.1,Neutral
+vid_1020,Top 10 Goals of the Week,2021-08-04T00:00:00,Sports Central,17,football|soccer|goals,4105631,21126,4113,19484,US,2021-08-06,0.5,Positive
+vid_1021,How to Bake Chocolate Cake,2021-08-04T00:00:00,Baking World,26,cake|baking|chocolate,1661849,207863,4393,15147,US,2021-08-09,0.0,Neutral
+vid_1022,New iPhone Review,2021-08-02T00:00:00,Tech Guru,28,tech|review|apple,2548934,270561,5326,18616,US,2021-08-07,0.13636363636363635,Positive
+vid_1023,Best Comedy Skits 2021,2021-08-03T00:00:00,Laugh Zone,23,comedy|funny|lol,4030212,34708,5186,7389,US,2021-08-09,1.0,Positive
+vid_1024,Travel Vlog: Goa Adventures,2021-08-05T00:00:00,Wanderlust,19,travel|vlog|india,3935715,86455,8521,4988,US,2021-08-11,0.0,Neutral
+vid_1025,Yoga for Beginners,2021-08-04T00:00:00,Yoga Daily,27,yoga|fitness|peace,3862893,492546,6094,18492,US,2021-08-06,0.0,Neutral
+vid_1026,Top 5 Gaming Moments,2021-08-01T00:00:00,Game On,20,gaming|fps|highlights,1053699,358146,976,11120,US,2021-08-09,0.5,Positive
+vid_1027,Breaking News Today,2021-08-06T00:00:00,News Now,25,news|breaking|update,2591314,21053,5925,18989,US,2021-08-10,0.0,Neutral
+vid_1028,Makeup Tutorial 101,2021-08-05T00:00:00,Beauty Buzz,26,makeup|beauty|tutorial,4771765,348353,7972,8002,US,2021-08-09,0.0,Neutral
+vid_1029,Epic Pranks Compilation,2021-08-06T00:00:00,Pranksters,23,prank|funny|viral,2149288,395946,7721,6630,US,2021-08-07,0.1,Neutral
+vid_1030,Top 10 Goals of the Week,2021-08-06T00:00:00,Sports Central,17,football|soccer|goals,1058395,486193,2731,13970,US,2021-08-09,0.5,Positive
+vid_1031,How to Bake Chocolate Cake,2021-08-05T00:00:00,Baking World,26,cake|baking|chocolate,4955103,148839,7280,1022,US,2021-08-10,0.0,Neutral
+vid_1032,New iPhone Review,2021-08-02T00:00:00,Tech Guru,28,tech|review|apple,417696,174302,9212,3206,US,2021-08-10,0.13636363636363635,Positive
+vid_1033,Best Comedy Skits 2021,2021-08-04T00:00:00,Laugh Zone,23,comedy|funny|lol,4516422,289827,2638,17252,US,2021-08-06,1.0,Positive
+vid_1034,Travel Vlog: Goa Adventures,2021-08-06T00:00:00,Wanderlust,19,travel|vlog|india,4111864,84123,4764,9445,US,2021-08-10,0.0,Neutral
+vid_1035,Yoga for Beginners,2021-08-06T00:00:00,Yoga Daily,27,yoga|fitness|peace,1762797,66613,6293,4097,US,2021-08-10,0.0,Neutral
+vid_1036,Top 5 Gaming Moments,2021-08-04T00:00:00,Game On,20,gaming|fps|highlights,1962113,211793,2444,12936,US,2021-08-11,0.5,Positive
+vid_1037,Breaking News Today,2021-08-05T00:00:00,News Now,25,news|breaking|update,3302149,380526,1719,6152,US,2021-08-09,0.0,Neutral
+vid_1038,Makeup Tutorial 101,2021-08-02T00:00:00,Beauty Buzz,26,makeup|beauty|tutorial,4022732,123477,605,15440,US,2021-08-07,0.0,Neutral
+vid_1039,Epic Pranks Compilation,2021-08-02T00:00:00,Pranksters,23,prank|funny|viral,3727093,378366,9849,11218,US,2021-08-06,0.1,Neutral
+vid_1040,Top 10 Goals of the Week,2021-08-01T00:00:00,Sports Central,17,football|soccer|goals,4519576,37983,7388,5128,US,2021-08-08,0.5,Positive
+vid_1041,How to Bake Chocolate Cake,2021-08-04T00:00:00,Baking World,26,cake|baking|chocolate,544515,131354,120,17326,US,2021-08-08,0.0,Neutral
+vid_1042,New iPhone Review,2021-08-03T00:00:00,Tech Guru,28,tech|review|apple,361026,20889,1031,9029,US,2021-08-11,0.13636363636363635,Positive
+vid_1043,Best Comedy Skits 2021,2021-08-03T00:00:00,Laugh Zone,23,comedy|funny|lol,4119906,316998,6414,3125,US,2021-08-08,1.0,Positive
+vid_1044,Travel Vlog: Goa Adventures,2021-08-05T00:00:00,Wanderlust,19,travel|vlog|india,3840083,8224,3348,17726,US,2021-08-06,0.0,Neutral
+vid_1045,Yoga for Beginners,2021-08-05T00:00:00,Yoga Daily,27,yoga|fitness|peace,3695559,53788,5004,3278,US,2021-08-06,0.0,Neutral
+vid_1046,Top 5 Gaming Moments,2021-08-04T00:00:00,Game On,20,gaming|fps|highlights,1501773,430013,148,13193,US,2021-08-11,0.5,Positive
+vid_1047,Breaking News Today,2021-08-02T00:00:00,News Now,25,news|breaking|update,4720461,240731,1491,6558,US,2021-08-11,0.0,Neutral
+vid_1048,Makeup Tutorial 101,2021-08-02T00:00:00,Beauty Buzz,26,makeup|beauty|tutorial,1365550,349538,1421,7848,US,2021-08-07,0.0,Neutral
+vid_1049,Epic Pranks Compilation,2021-08-02T00:00:00,Pranksters,23,prank|funny|viral,3611705,302332,8185,16785,US,2021-08-11,0.1,Neutral
+vid_1050,Top 10 Goals of the Week,2021-08-03T00:00:00,Sports Central,17,football|soccer|goals,410081,260270,9213,12768,US,2021-08-06,0.5,Positive
+vid_1051,How to Bake Chocolate Cake,2021-08-01T00:00:00,Baking World,26,cake|baking|chocolate,479966,339812,5544,1518,US,2021-08-09,0.0,Neutral
+vid_1052,New iPhone Review,2021-08-03T00:00:00,Tech Guru,28,tech|review|apple,4246270,71793,3366,12456,US,2021-08-06,0.13636363636363635,Positive
+vid_1053,Best Comedy Skits 2021,2021-08-05T00:00:00,Laugh Zone,23,comedy|funny|lol,2235622,490712,8013,8174,US,2021-08-07,1.0,Positive
+vid_1054,Travel Vlog: Goa Adventures,2021-08-06T00:00:00,Wanderlust,19,travel|vlog|india,2052660,298180,1357,10546,US,2021-08-06,0.0,Neutral
+vid_1055,Yoga for Beginners,2021-08-03T00:00:00,Yoga Daily,27,yoga|fitness|peace,1331936,470546,8763,11388,US,2021-08-09,0.0,Neutral
+vid_1056,Top 5 Gaming Moments,2021-08-06T00:00:00,Game On,20,gaming|fps|highlights,4170770,249783,8359,13490,US,2021-08-10,0.5,Positive
+vid_1057,Breaking News Today,2021-08-04T00:00:00,News Now,25,news|breaking|update,807882,307513,4724,7528,US,2021-08-09,0.0,Neutral
+vid_1058,Makeup Tutorial 101,2021-08-01T00:00:00,Beauty Buzz,26,makeup|beauty|tutorial,2349725,131394,8421,17777,US,2021-08-09,0.0,Neutral
+vid_1059,Epic Pranks Compilation,2021-08-01T00:00:00,Pranksters,23,prank|funny|viral,2215819,215350,5495,18084,US,2021-08-07,0.1,Neutral
+vid_1060,Top 10 Goals of the Week,2021-08-06T00:00:00,Sports Central,17,football|soccer|goals,4592600,452146,1294,13230,US,2021-08-10,0.5,Positive
+vid_1061,How to Bake Chocolate Cake,2021-08-06T00:00:00,Baking World,26,cake|baking|chocolate,2429829,334090,7765,17160,US,2021-08-09,0.0,Neutral
+vid_1062,New iPhone Review,2021-08-04T00:00:00,Tech Guru,28,tech|review|apple,3129975,137702,4387,16791,US,2021-08-10,0.13636363636363635,Positive
+vid_1063,Best Comedy Skits 2021,2021-08-06T00:00:00,Laugh Zone,23,comedy|funny|lol,721147,284348,7381,16888,US,2021-08-06,1.0,Positive
+vid_1064,Travel Vlog: Goa Adventures,2021-08-01T00:00:00,Wanderlust,19,travel|vlog|india,3323380,116282,7351,10080,US,2021-08-06,0.0,Neutral
+vid_1065,Yoga for Beginners,2021-08-01T00:00:00,Yoga Daily,27,yoga|fitness|peace,404392,320804,7267,14415,US,2021-08-06,0.0,Neutral
+vid_1066,Top 5 Gaming Moments,2021-08-01T00:00:00,Game On,20,gaming|fps|highlights,4711251,273927,3421,5992,US,2021-08-10,0.5,Positive
+vid_1067,Breaking News Today,2021-08-04T00:00:00,News Now,25,news|breaking|update,3102539,33641,3512,15862,US,2021-08-11,0.0,Neutral
+vid_1068,Makeup Tutorial 101,2021-08-01T00:00:00,Beauty Buzz,26,makeup|beauty|tutorial,398295,461405,4161,10103,US,2021-08-07,0.0,Neutral
+vid_1069,Epic Pranks Compilation,2021-08-02T00:00:00,Pranksters,23,prank|funny|viral,4042303,64836,5444,8850,US,2021-08-08,0.1,Neutral
+vid_1070,Top 10 Goals of the Week,2021-08-04T00:00:00,Sports Central,17,football|soccer|goals,240048,22024,6010,9581,US,2021-08-07,0.5,Positive
+vid_1071,How to Bake Chocolate Cake,2021-08-04T00:00:00,Baking World,26,cake|baking|chocolate,1432698,169670,6769,11141,US,2021-08-07,0.0,Neutral
+vid_1072,New iPhone Review,2021-08-05T00:00:00,Tech Guru,28,tech|review|apple,3241359,377053,9057,14270,US,2021-08-07,0.13636363636363635,Positive
+vid_1073,Best Comedy Skits 2021,2021-08-03T00:00:00,Laugh Zone,23,comedy|funny|lol,4419867,363216,2646,15534,US,2021-08-07,1.0,Positive
+vid_1074,Travel Vlog: Goa Adventures,2021-08-04T00:00:00,Wanderlust,19,travel|vlog|india,3121010,488941,2352,14245,US,2021-08-08,0.0,Neutral
+vid_1075,Yoga for Beginners,2021-08-05T00:00:00,Yoga Daily,27,yoga|fitness|peace,3732528,466465,7668,8680,US,2021-08-09,0.0,Neutral
+vid_1076,Top 5 Gaming Moments,2021-08-01T00:00:00,Game On,20,gaming|fps|highlights,4497268,34860,7681,14412,US,2021-08-06,0.5,Positive
+vid_1077,Breaking News Today,2021-08-02T00:00:00,News Now,25,news|breaking|update,4170933,445437,4887,5689,US,2021-08-09,0.0,Neutral
+vid_1078,Makeup Tutorial 101,2021-08-04T00:00:00,Beauty Buzz,26,makeup|beauty|tutorial,2021696,50775,5046,6136,US,2021-08-09,0.0,Neutral
+vid_1079,Epic Pranks Compilation,2021-08-01T00:00:00,Pranksters,23,prank|funny|viral,4562582,419730,680,12285,US,2021-08-09,0.1,Neutral
+vid_1080,Top 10 Goals of the Week,2021-08-01T00:00:00,Sports Central,17,football|soccer|goals,3211470,320293,3094,13789,US,2021-08-08,0.5,Positive
+vid_1081,How to Bake Chocolate Cake,2021-08-03T00:00:00,Baking World,26,cake|baking|chocolate,706516,90962,3161,19660,US,2021-08-08,0.0,Neutral
+vid_1082,New iPhone Review,2021-08-06T00:00:00,Tech Guru,28,tech|review|apple,2045499,35014,7099,12692,US,2021-08-10,0.13636363636363635,Positive
+vid_1083,Best Comedy Skits 2021,2021-08-02T00:00:00,Laugh Zone,23,comedy|funny|lol,2977822,361822,2134,3122,US,2021-08-06,1.0,Positive
+vid_1084,Travel Vlog: Goa Adventures,2021-08-01T00:00:00,Wanderlust,19,travel|vlog|india,4574428,494824,3977,15379,US,2021-08-09,0.0,Neutral
+vid_1085,Yoga for Beginners,2021-08-03T00:00:00,Yoga Daily,27,yoga|fitness|peace,3393716,302017,4875,14751,US,2021-08-06,0.0,Neutral
+vid_1086,Top 5 Gaming Moments,2021-08-02T00:00:00,Game On,20,gaming|fps|highlights,626663,154348,6461,1469,US,2021-08-08,0.5,Positive
+vid_1087,Breaking News Today,2021-08-06T00:00:00,News Now,25,news|breaking|update,2157914,386270,5792,10994,US,2021-08-11,0.0,Neutral
+vid_1088,Makeup Tutorial 101,2021-08-02T00:00:00,Beauty Buzz,26,makeup|beauty|tutorial,1107142,452333,8256,13009,US,2021-08-07,0.0,Neutral
+vid_1089,Epic Pranks Compilation,2021-08-03T00:00:00,Pranksters,23,prank|funny|viral,4489627,219896,1870,5936,US,2021-08-11,0.1,Neutral
+vid_1090,Top 10 Goals of the Week,2021-08-01T00:00:00,Sports Central,17,football|soccer|goals,2267624,392859,3677,4470,US,2021-08-10,0.5,Positive
+vid_1091,How to Bake Chocolate Cake,2021-08-03T00:00:00,Baking World,26,cake|baking|chocolate,2372278,142818,8869,10040,US,2021-08-10,0.0,Neutral
+vid_1092,New iPhone Review,2021-08-03T00:00:00,Tech Guru,28,tech|review|apple,3645806,399174,6913,5419,US,2021-08-11,0.13636363636363635,Positive
+vid_1093,Best Comedy Skits 2021,2021-08-03T00:00:00,Laugh Zone,23,comedy|funny|lol,1020556,46269,6222,16213,US,2021-08-06,1.0,Positive
+vid_1094,Travel Vlog: Goa Adventures,2021-08-06T00:00:00,Wanderlust,19,travel|vlog|india,2565477,131691,7893,18622,US,2021-08-06,0.0,Neutral
+vid_1095,Yoga for Beginners,2021-08-03T00:00:00,Yoga Daily,27,yoga|fitness|peace,3035406,368447,4323,12829,US,2021-08-06,0.0,Neutral
+vid_1096,Top 5 Gaming Moments,2021-08-02T00:00:00,Game On,20,gaming|fps|highlights,1296697,18127,3252,9683,US,2021-08-08,0.5,Positive
+vid_1097,Breaking News Today,2021-08-04T00:00:00,News Now,25,news|breaking|update,3859684,429973,3034,16121,US,2021-08-08,0.0,Neutral
+vid_1098,Makeup Tutorial 101,2021-08-05T00:00:00,Beauty Buzz,26,makeup|beauty|tutorial,4703932,472262,9109,19976,US,2021-08-10,0.0,Neutral
+vid_1099,Epic Pranks Compilation,2021-08-04T00:00:00,Pranksters,23,prank|funny|viral,893358,18696,3181,6828,US,2021-08-08,0.1,Neutral
