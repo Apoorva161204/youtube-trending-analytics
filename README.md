@@ -57,7 +57,7 @@ Find all visualizations in the folder.
 - Regular publishing schedules may improve trending chances.
 
 ## 📄 Final Report
-The complete  project report is available here: [`youtube_project1_report.pdf`](report/youtube_project1_report.pdf)
+The complete  project report is available in youtube_project_report.pdf
 
 ## 🚀 Future Improvements
 - Integrate YouTube comments sentiment
